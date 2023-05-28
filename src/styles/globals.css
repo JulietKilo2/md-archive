@@ -8,7 +8,7 @@ body {
 
 @layer components {
   .layout-basics {
-    @apply px-[16px] w-full max-w-[1000px] h-full mx-auto;
+    @apply px-[16px] w-full max-w-[1000px] h-full mx-auto my-[56px];
   }
 
   .card-layout {
